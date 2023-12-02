@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Frameworks and Fullstack development courses.**
 
-- 👩🏻‍💻 All of my projects are available at [Linktree](https://linktr.ee/puranasree)
-
 - 👨‍💻 All of my projects are available at [https://puranasree-portfolio.vercel.app/](https://puranasree-portfolio.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@puranasreems](https://medium.com/@puranasreems)
