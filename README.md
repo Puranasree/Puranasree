@@ -15,9 +15,9 @@
 
 - 📝 I regularly write articles on [https://medium.com/@puranasreems](https://medium.com/@puranasreems)
 
-- 💬 Ask me about **Python,Javascript, React and nodejs**
+- 💬 Ask me about **Python,Javascript, Java and SQL**
 
-- 📫 How to reach me **puranasreems@gmail.com**
+- 📫 How to reach me **puranasreems@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
