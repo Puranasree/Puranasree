@@ -1,21 +1,21 @@
 
 <h1 align="center">Hi 👋, I'm Puranasree M S</h1>
-<h3 align="center">A Passionate Frontend Developer</h3>
+<h3 align="center">A Passionate Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puranasree&label=Profile%20views&color=0e75b6&style=flat" alt="puranasree" /> </p>
 
 <p align="left"> <a href="https://twitter.com/puranasree" target="blank"><img src="https://img.shields.io/twitter/follow/puranasree?logo=twitter&style=for-the-badge" alt="puranasree" /></a> </p>
 
-- 🔭 I’m currently working on [Responsive webpage with carousels](https://www.figma.com/file/qsJBO5zbsyl1Vt30gG8peV/Frutiee?type=design&node-id=0%3A1&mode=design&t=bT0wPNgjpCDFoRam-1)
+- 🔭 I’m currently working on Fullstack projects..
 
-- 🌱 I’m currently learning **Frameworks and Fullstack development courses.**
+- 🌱 I’m currently working on **Automation Trainee**
 
 - 👨‍💻 All of my projects are available at [https://puranasree-portfolio.vercel.app/](https://puranasree-portfolio.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@puranasreems](https://medium.com/@puranasreems)
 
-- 💬 Ask me about **Python,Javascript, Java and SQL**
+- 💬 Ask me about **Asp.net, Javascript, Java Springboot and PHP**
 
 - 📫 How to reach me **puranasreems@gmail.com
 
