@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/puranasree" target="blank"><img src="https://img.shields.io/twitter/follow/puranasree?logo=twitter&style=for-the-badge" alt="puranasree" /></a> </p>
 
-- 🔭 I’m currently working on Fullstack projects..
-
-- 🌱 I’m currently working on **Automation Trainee**
+- 🔭 I’m currently working on **Automation Trainee**
 
 - 👨‍💻 All of my projects are available at [https://puranasree-portfolio.vercel.app/](https://puranasree-portfolio.vercel.app/)
 
